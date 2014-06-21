@@ -45,10 +45,10 @@ Tidy_data_set_1.txt:
 Variables:
 
 Subjects -> Identifies the subject who performed the activity. Its range is from 1 to 30. 
-Activity -> There are six activities per subject,i.e. WALKING - WALKING_UPSTAIRS
- - WALKING_DOWNSTAIRS
- - SITTING
- - STANDING - LAYING
+Activity -> There are six activities per subject,i.e. WALKING, WALKING_UPSTAIRS
+, WALKING_DOWNSTAIRS
+, SITTING
+, STANDING, LAYING.
 
 
 The remaining 86 variables represent the estimates on the mean and standard deviation for each measurement. IT WAS DECIDED TO INCLUDE ALL THE 86 VARIABLES
@@ -150,10 +150,10 @@ Tidy_data_set_2.txt:
 Variables:
 
 Subjects -> Identifies the subject who performed the activity. Its range is from 1 to 30. 
-Activity -> There are six activities per subject,i.e. WALKING - WALKING_UPSTAIRS
- - WALKING_DOWNSTAIRS
- - SITTING
- - STANDING - LAYING
+Activity -> There are six activities per subject,i.e. WALKING, WALKING_UPSTAIRS
+, WALKING_DOWNSTAIRS
+, SITTING
+, STANDING, LAYING
 
 
 The remaining 86 variables represent independent tidy data set with the average of each variable for each activity and each subject as calculated from 
