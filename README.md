@@ -13,4 +13,4 @@ The repository contains the following files,
 
 a. README.md.
 b. CodeBook.md -> Decribes the process implemented to get tidy data sets from the raw data. The variables and observations contained in the tidy data are described, as well as the their units.
-b. run_analysis.R -> the script implemented to get and clean the raw data. The code has comments which explain step by step how it works; the tidy data files "tidy_data_set_1.txt" and "tidy_data_set_2.txt" are the output or tidy data and they are saved on the local working directory. Please, keep in mind that only the file "tidy_data_set_2.txt" was uploaded on the coursera�s submission platform.
+b. run_analysis.R -> the script implemented to get and clean the raw data. The code has comments which explain step by step how it works; the tidy data files "tidy_data_set_1.txt" and "tidy_data_set_2.txt" are the output or tidy data and they are saved on the local working directory. Please, keep in mind that only the file "tidy_data_set_2.txt" was uploaded on the courseras submission platform.
