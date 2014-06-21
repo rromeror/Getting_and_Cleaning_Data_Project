@@ -36,7 +36,7 @@ fBodyGyroJerkMag
 
 Notes on units: The linear accelaration mean/std are given in standard gravity units 'g', whereas the estimates for angular variables are in 'radians/second'.
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Tidy_data_set_1.txt:
 
 1. Number of variables = 88
@@ -141,7 +141,7 @@ angle.X.gravityMean.
 angle.Y.gravityMean.
 angle.Z.gravityMean.
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Tidy_data_set_2.txt:
 
 1. Number of variables = 88
